@@ -1,0 +1,66 @@
+hr {
+  color: sienna;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f6f6f6;
+}
+
+a {
+  text-decoration: none;
+  color: #000000;
+}
+
+a:link {
+  color: #000000;
+}
+
+a:hover {
+  color: #00ccff;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+table {
+  width: 100%;
+}
+th {
+  height: 50px;
+}
+
+td {
+  padding: 15px;
+}
+
+img {
+  display: block;
+  margin: auto;
+  width: 40%;
+}
+p {
+  text-align: center;
+}
+a {
+  text-align: center;
+}
+
+div {
+  margin: auto;
+  text-align: center;
+}
